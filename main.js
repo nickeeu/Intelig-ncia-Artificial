@@ -19,10 +19,10 @@ const perguntas = [
         ]
     },
     {
-        enunciado: "Com a descoberta desta tecnologia, chamada Inteligência Artificial, uma professora de tecnologia da escola decidiu fazer uma sequência de aulas sobre esta tecnologia. No fim de uma aula ela pede que você escreva um trabalho sobre o uso de IA em sala de aula. Qual atitude você toma?",
+        enunciado: "Métodos de contracepção natural e métodos de contracepção comportamental podem ser alternativas para aqueles que preferem evitar métodos hormonais ou dispositivos",
         alternativas: [
             {
-                texto: "Utiliza uma ferramenta de busca na internet que utiliza IA para que ela ajude a encontrar informações relevantes para o trabalho e explique numa linguagem que facilite o entendimento.",
+                texto: "Métodos de contracepção natural, como o método de temperatura basal e o método do muco cervical, são baseados na observação dos sinais do corpo para identificar os períodos férteis e não ter relações sexuais durante esses períodos.  ",
                 afirmacao: "Conseguiu utilizar a IA para buscar informações úteis."
             },
             {
